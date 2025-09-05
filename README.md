@@ -1,3 +1,2 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN0YmFxdGtld3cyaWc2czJlb3hhYTBsaGhyd3ZkaHZlczBnam9tbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/81xwEHX23zhvy/giphy.gif" width="400"/>
-</div>
+
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a444e30596d46786447746c6433637961576332637a4a6c62336868595442736147687964335a6b61485a6c637a426e616d397462695a6c63](https://github.com/user-attachments/assets/e1e94af5-c090-4f6e-b520-a8b124bd64fc)
